@@ -1,0 +1,9 @@
+# OS generated files #
+######################
+.DS_Store
+.DSStore?
+.*.sw[op]
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
